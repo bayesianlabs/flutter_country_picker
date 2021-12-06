@@ -18,11 +18,24 @@ final List<Map<String, dynamic>> nyOtherStates = [
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "Other",
+    "name": "United States",
     "example": "2012345678",
-    "display_name": "Other (US) [+1]",
+    "display_name": "United States (US) [+1]",
     "full_example_with_plus_sign": "+12012345678",
-    "display_name_no_e164_cc": "Other (US)",
+    "display_name_no_e164_cc": "United States (US)",
     "e164_key": "1-US-0"
+  },
+  {
+    "e164_cc": "1",
+    "iso2_cc": "CA",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 2,
+    "name": "Canada",
+    "example": "2042345678",
+    "display_name": "Canada (CA) [+1]",
+    "full_example_with_plus_sign": "+12042345678",
+    "display_name_no_e164_cc": "Canada (CA)",
+    "e164_key": "1-CA-0"
   }
 ];
